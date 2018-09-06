@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Papertrail": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SLACK_WEBHOOK": "<WEBHOOK-URL>",
+        "SLACK_USERNAME": "<USERNAME>",
+        "SLACK_CHANNEL": "<#CHANNEL>",
+        "WEBSERVICE_PORT": "50000"
+      }
+    }
+  }
+}
